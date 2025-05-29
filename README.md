@@ -38,7 +38,7 @@ In just 3 hours, you'll master the emerging **Agent-to-Agent (A2A) Protocol** an
 
 ```bash
 # Clone this repository
-git clone https://github.com/[username]/Master-A2A-Course.git
+git clone https://github.com/pragatidev/Master-A2A-Course.git
 cd Master-A2A-Course
 
 # Set up environment
